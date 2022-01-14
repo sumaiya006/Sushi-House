@@ -1,0 +1,241 @@
+.popular-sec{
+    /* border: 1px solid red; */
+    background: url(../images/img1.png) no-repeat center center/cover;
+    padding: 60px 0px 80px;
+}
+.popular-sec-title{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    margin: 0px;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+}
+.popular-sec-title1{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    margin: 20px 0px 40px;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    /* padding: 0px 270px; */
+}
+.popular-sec .row .inner-popular{
+    /* border: 1px solid red;    */
+    padding: 0px;
+}
+.inner-popular-box{
+    /* border: 1px solid aqua; */
+    /* padding: 0px; */
+    text-align: center;
+}
+.inner-popular-box .popular-item-title{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #fff;
+    margin: 20px 0px 0px;
+}
+.inner-popular-box .popular-item-title1{
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 20px;
+    color: #fff;
+    margin: 10px 0px 0px;
+}
+/* *********************************************** */
+@media (min-width:279px) and (max-width:319px){
+    .popular-sec{
+        /* border: 1px solid red;
+        background: url(../images/img1.png) no-repeat center center/cover; */
+        padding: 60px 0px 40px;
+    }
+    .popular-sec-title{
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 40px;
+        margin: 0px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .popular-sec-title1{
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 22px;
+        margin: 20px 0px 40px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+        padding: 0px 0px;
+    }
+    .inner-popular-box{
+        /* border: 1px solid aqua; */
+        /* padding: 0px; */
+        text-align: center;
+        margin: 0px 0px 50px;
+    }
+}
+@media (min-width:320px) and (max-width:480px){
+    .popular-sec{
+        /* border: 1px solid red;
+        background: url(../images/img1.png) no-repeat center center/cover; */
+        padding: 60px 0px 40px;
+    }
+    .popular-sec-title{
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 40px;
+        margin: 0px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .popular-sec-title1{
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 22px;
+        margin: 20px 0px 60px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+        padding: 0px 0px;
+    }
+    .inner-popular-box{
+        /* border: 1px solid aqua; */
+        /* padding: 0px; */
+        text-align: center;
+        margin: 0px 0px 50px;
+    }
+}
+
+@media (min-width:481px) and (max-width:767px){
+    .popular-sec{
+        /* border: 1px solid red;
+        background: url(../images/img1.png) no-repeat center center/cover; */
+        padding: 60px 0px 40px;
+    }
+    .popular-sec-title{
+        font-size: 45px;
+        font-weight: 600;
+        line-height: 50px;
+        margin: 0px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .popular-sec-title1{
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 22px;
+        margin: 20px 0px 60px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+        padding: 0px 0px;
+    }
+    .inner-popular-box{
+        /* border: 1px solid aqua; */
+        /* padding: 0px; */
+        text-align: center;
+        margin: 0px 0px 50px;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .popular-sec{
+        /* border: 1px solid red;
+        background: url(../images/img1.png) no-repeat center center/cover; */
+        padding: 60px 0px 40px;
+    }
+    .popular-sec-title{
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 60px;
+        margin: 0px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .popular-sec-title1{
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 22px;
+        margin: 20px 0px 60px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+        padding: 0px 0px;
+    }
+    .inner-popular-box{
+        /* border: 1px solid aqua; */
+        /* padding: 0px; */
+        text-align: center;
+        margin: 0px 0px 50px;
+    }
+}
+@media (min-width:992px) and (max-width:1023px){
+    .popular-sec{
+        /* border: 1px solid red;
+        background: url(../images/img1.png) no-repeat center center/cover; */
+        padding: 60px 0px 40px;
+    }
+    .popular-sec-title{
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 60px;
+        margin: 0px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .popular-sec-title1{
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 22px;
+        margin: 20px 0px 60px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+        padding: 0px 0px;
+    }
+    .inner-popular-box{
+        /* border: 1px solid aqua; */
+        /* padding: 0px; */
+        text-align: center;
+        margin: 0px 0px 50px;
+    }
+}
+@media (min-width:1024px) and (max-width:1075px){
+    .popular-sec{
+        /* border: 1px solid red;
+        background: url(../images/img1.png) no-repeat center center/cover; */
+        padding: 60px 0px 40px;
+    }
+    .popular-sec-title{
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 60px;
+        margin: 0px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .popular-sec-title1{
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 22px;
+        margin: 20px 0px 60px;
+        color: #fff;
+        text-align: center;
+        text-transform: capitalize;
+        padding: 0px 0px;
+    }
+    .inner-popular-box{
+        /* border: 1px solid aqua; */
+        /* padding: 0px; */
+        text-align: center;
+        margin: 0px 0px 50px;
+    }
+}

@@ -1,0 +1,97 @@
+.review-sec{
+    
+    /* border: 1px solid red; */
+    background: url(../images/img6.png) no-repeat center center/cover;
+    padding: 100px 0px;
+}
+
+.review-sec .row .inner-rev-sec{
+    /* border: 1px solid lime; */
+    padding: 0px;
+}
+.inner-rev-sec .inner-rev-box{
+    /* border: 1px solid blue; */
+    text-align: center;
+    color: #fff;
+    padding: 0px 10px;
+}
+.inner-rev-sec .inner-rev-box img{
+    /* border: 1px solid red; */
+}
+.rev-title{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.rev-title1{
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+/* ********************************************* */
+@media (min-width:279px) and (max-width:319px){
+    .rev-title{
+        font-size: 15px;
+        font-weight: 400;
+        margin-top: 20px;
+        /* padding: 0px 10px; */
+    }
+    .rev-title1{
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+}
+@media (min-width:320px) and (max-width:480px){
+    .rev-title{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 20px;
+        /* padding: 0px 10px; */
+    }
+    .rev-title1{
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+}
+@media (min-width:481px) and (max-width:767px){
+    .rev-title{
+        font-size: 18px;
+        font-weight: 400;
+        margin-top: 20px;
+        /* padding: 0px 10px; */
+    }
+    .rev-title1{
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .rev-title{
+        font-size: 22px;
+        font-weight: 400;
+        margin-top: 20px;
+        /* padding: 0px 10px; */
+    }
+    .rev-title1{
+        font-size: 30px;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+}
+@media (min-width:992px) and (max-width:1075px){
+    .rev-title{
+        font-size: 25px;
+        font-weight: 400;
+        margin-top: 20px;
+        /* padding: 0px 10px; */
+    }
+    .rev-title1{
+        font-size: 30px;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+}
